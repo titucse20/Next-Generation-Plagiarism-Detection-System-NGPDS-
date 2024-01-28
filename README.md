@@ -1,3 +1,5 @@
+![HSTU_Logo (2)](https://github.com/titucse20/Next-Generation-Plagiarism-Detection-System-NGPDS-/assets/92135409/008f4fd5-ae97-4d34-bde3-c50693b580e2)
+
 # Course Code: CSE 305
 # Course Title: Software Engineering
 # Project Proposal: Next-Generation Plagiarism Detection System (NGPDS).
