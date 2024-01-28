@@ -12,7 +12,7 @@ Developing a Next-Generation Plagiarism Detection System (NGPDS) App using the S
 ***
 # Steps of Waterfall model:
 
-## 1.Requirement Gathering and analysis:
+## 1. Requirement Gathering and analysis:
 
 * Work closely with educational professionals and stakeholders to gather detailed requirements for the app.
 
