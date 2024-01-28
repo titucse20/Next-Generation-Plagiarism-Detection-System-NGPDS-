@@ -6,6 +6,7 @@
 Developing a Next-Generation Plagiarism Detection System (NGPDS) App using the Software Development Life Cycle (SDLC) model involves several phases. SDLC is a systematic process for planning, creating, testing, deploying, and maintaining an information system. Here's a simplified guide using the traditional Waterfall SDLC model. Keep in mind that real-world projects often use Agile methodologies for flexibility.  
 
 
+![New Project](https://github.com/titucse20/Next-Generation-Plagiarism-Detection-System-NGPDS-/assets/92135409/9563bddf-e396-4b06-8794-fdeb51376e9e)
 ***
 # Steps of Waterfall model:
 
