@@ -2,7 +2,7 @@
 
 # Course Code: CSE 305
 # Course Title: Software Engineering
-# Project Proposal: Next-Generation Plagiarism Detection System (NGPDS).
+# Project Proposal: Next-Generation Plagiarism Detection System (NGPDS)
 # Introduction: 
 
 Developing a Next-Generation Plagiarism Detection System (NGPDS) App using the Software Development Life Cycle (SDLC) model involves several phases. SDLC is a systematic process for planning, creating, testing, deploying, and maintaining an information system. Here's a simplified guide using the traditional Waterfall SDLC model. Keep in mind that real-world projects often use Agile methodologies for flexibility.  
