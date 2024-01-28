@@ -19,7 +19,7 @@ Developing a Next-Generation Plagiarism Detection System (NGPDS) App using the S
 * Define the features and functionalities needed for online plagiarism cross-match services.
 
 ## 2. System Design:
-Develop a system architecture for the Next-Generation Plagiarism Detection System.
+* Develop a system architecture for the Next-Generation Plagiarism Detection System.
 
 * Create detailed technical specifications for the app.
 
